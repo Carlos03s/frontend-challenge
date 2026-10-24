@@ -1,0 +1,5 @@
+export const sessionTokenStorageKey = 'kurio-session-token'
+export const guestCartIdStorageKey = 'kurio-guest-cart-id'
+export const mockScenarioStorageKey = 'kurio-mock-scenario'
+export const activeOrderStorageKey = 'kurio-active-order-id'
+export const mockFailNextStorageKey = 'kurio-mock-fail-next'
